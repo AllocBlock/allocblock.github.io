@@ -1,0 +1,3 @@
+[submodule "CS1.6-mapper-guide"]
+	path = CS1.6-mapper-guide
+	url = https://github.com/AllocBlock/CS1.6-mapper-guide.git
